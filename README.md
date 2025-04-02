@@ -4,12 +4,12 @@ Credit Card Fraud Detection System
 An advanced machine learning system for detecting fraudulent credit card transactions using multiple models and sophisticated data processing techniques.
 
 🔍 Key Features
-Multi-model approach (Random Forest, XGBoost, LightGBM)
-Advanced feature engineering
-Class imbalance handling using SMOTE
-Comprehensive model evaluation
-Interactive visualizations
-Feature importance analysis
+- Multi-model approach (Random Forest, XGBoost, LightGBM)
+- Advanced feature engineering
+- Class imbalance handling using SMOTE
+- Comprehensive model evaluation
+- Interactive visualizations
+- Feature importance analysis
 
 🛠️ Technologies
 Python
