@@ -12,32 +12,32 @@ An advanced machine learning system for detecting fraudulent credit card transac
 - Feature importance analysis
 
 🛠️ Technologies
-Python
-scikit-learn
-XGBoost
-LightGBM
-imbalanced-learn
-pandas
-matplotlib/seaborn
+- Python
+- scikit-learn
+- XGBoost
+- LightGBM
+- imbalanced-learn
+- pandas
+- matplotlib/seaborn
 
 📊 Capabilities
-Processes credit card transaction data
-Creates time-based and interaction features
-Handles imbalanced datasets
-Provides comparative model performance
-Generates visual insights
-Calculates ROC-AUC scores and confusion matrices
+- Processes credit card transaction data
+- Creates time-based and interaction features
+- Handles imbalanced datasets
+- Provides comparative model performance
+- Generates visual insights
+- Calculates ROC-AUC scores and confusion matrices
 
 🚀 Getting Started
-Clone the repository
-Install dependencies: pip install -r requirements.txt
-Run the detector: python credit_card_fraud_detection.py
+- Clone the repository
+- Install dependencies: pip install -r requirements.txt
+- Run the detector: python credit_card_fraud_detection.py
 
 📈 Performance
-Handles large-scale transaction data
-Balanced accuracy through SMOTE
-Multiple model comparison for optimal results
-Detailed performance metrics and visualizations
+- Handles large-scale transaction data
+- Balanced accuracy through SMOTE
+- Multiple model comparison for optimal results
+- Detailed performance metrics and visualizations
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
